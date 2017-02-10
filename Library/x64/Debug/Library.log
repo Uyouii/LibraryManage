@@ -1,0 +1,24 @@
+﻿  Moc'ing library.h...
+  moc_library.cpp
+d:\qt\library\controller.h(420): warning C4100: “sql”: 未引用的形参
+  library.cpp
+d:\qt\library\controller.h(420): warning C4100: “sql”: 未引用的形参
+library.cpp(266): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+library.cpp(333): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+library.cpp(335): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+library.cpp(387): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+library.cpp(389): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+library.cpp(361): warning C4100: “num”: 未引用的形参
+library.cpp(376): warning C4189: “n”: 局部变量已初始化但不引用
+library.cpp(432): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+library.cpp(516): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+library.cpp(553): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+library.cpp(677): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+library.cpp(777): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+library.cpp(890): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+library.cpp(1160): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+library.cpp(1318): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  main.cpp
+d:\qt\library\controller.h(420): warning C4100: “sql”: 未引用的形参
+  正在生成代码...
+  Library.vcxproj -> D:\QT\Library\debug\Library.exe
